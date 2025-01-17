@@ -20,8 +20,8 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DIEGO-OFC/Zirax-Bot-MD)
 
 ### `—◉ ⚒️ 𝐀𝐉𝐔𝐒𝐓𝐄𝐒 ⚒️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/DIEGO-OFC/Shadow-Bot-MD/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/DIEGO-OFC/Shadow-Bot-MD/blob/main/configuracion.js)
+- CLONAR EL REPOSITORIO [Aqui](https://github.com//1dago1/Maria-Corina-Bot-MD/fork)
+- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/1dago1/Maria-Corina-Bot-MD/blob/main/configuracion.js)
 
 ### <img src="https://github.com/DIEGO-OFC/Shadow-Bot-MD/blob/main/galeria/unnamed.png" height="30px"> 𝐀𝐂𝐓𝐈𝐕𝐀𝐑 𝐄𝐍 𝐓𝐄𝐑𝐌𝐔𝐗
 - ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
