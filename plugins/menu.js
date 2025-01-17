@@ -28,7 +28,7 @@ return `*╭━━❍MARICORI-𝐁𝐎𝐓-𝐌𝐃❍━━╮*
  *┃╭━━━━━━━━━━━━━━━━╾•* 
  *┃┃  ❍ ${ucapan()} ❍* 
  *┃┣━━━━━━━━━━━━━━━━╾•* 
- *┃┃ ⋄ NUMERO DEL CREADOR: wa.me/528442286089 (𝐍𝐎 𝐁𝐎𝐓)* 
+ *┃┃ ⋄ NUMERO DEL CREADOR: wa.me/584121275155 (𝐍𝐎 𝐁𝐎𝐓)* 
  *┃┃ ⋄ VERSION » ${vs}* 
  *┃┃ ⋄ FECHA » ${date} ${time}* 
  *┃┃ ⋄ TIEMPO ACTIVO » ${runtime(process.uptime())}*
@@ -159,6 +159,7 @@ return `*╭━━❍MARICORI-𝐁𝐎𝐓-𝐌𝐃❍━━╮*
   ├➢ *${prefix}pornoschool*
   ├➢ *${prefix}hentaipdf* *<texto>*_  
   └────ׂ─ׂ─ׂ─ׂ─── 
+  _No usar plis_
    
 *╭─╮─᤻─᳒─᤻᳒᯽⃟ᰳᰬᰶ┈*🔰⃐ＧＲＵＰＯＳ*️⃟ᬽ፝֟━*
 ├❥ᰰຼ ❏ ${prefix}antilink _(Elimina a los que manda link de otro grupo)_
