@@ -23,7 +23,7 @@ const week = d.toLocaleDateString(locale, {weekday: 'long'});
 const date = d.toLocaleDateString(locale, {day: 'numeric', month: 'long', year: 'numeric'});*/
 let wa = m.key.id.length > 21 ? 'Android' : m.key.id.substring(0, 2) == '3A' ? 'IOS' : 'whatsapp web'
 
-return `*╭━━❍SHADOW-𝐁𝐎𝐓-𝐌𝐃❍━━╮* 
+return `*╭━━❍MARICORI-𝐁𝐎𝐓-𝐌𝐃❍━━╮* 
  *┣━━━▢ ❤𝐇𝐎𝐋𝐀, @${sender.split("@")[0]} ❤*• 
  *┃╭━━━━━━━━━━━━━━━━╾•* 
  *┃┃  ❍ ${ucapan()} ❍* 
@@ -36,7 +36,7 @@ return `*╭━━❍SHADOW-𝐁𝐎𝐓-𝐌𝐃❍━━╮*
  *┃┃ ⋄ USUARIOS » ${Object.keys(global.db.data.users).length}*
  *┃┃ ⋄ MODO » ${conn.public ? 'publico' : 'privado'}*
  *┃╰━━━━━━━━━━━━━━━━╾•* 
- *╰━━━╼SHADOW-𝐁𝐎𝐓-𝐌𝐃╾━━━╯* 
+ *╰━━━╼MARICORI-𝐁𝐎𝐓-𝐌𝐃╾━━━╯* 
 
  ▧ 「 *I N F O R M A C I O N* 」  
  │ ‣ ︎ _${prefix}grupos_ 
