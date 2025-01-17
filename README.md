@@ -48,12 +48,12 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > npm start
 ```
 
-### `—◉ 𝐎𝐁𝐓𝐄𝐍𝐄𝐑 𝐎𝐓𝐑𝐎 𝐂𝐎𝐃𝐈𝐆𝐎 𝐐𝐑` <img src="https://github.com/DIEGO-OFC/Shadow-Bot-MD/blob/main/galeria/qrcode_30531084_.png" height="30px">
+### `—◉ 𝐎𝐁𝐓𝐄𝐍𝐄𝐑 𝐎𝐓𝐑𝐎 𝐂𝐎𝐃𝐈𝐆𝐎 𝐐𝐑` <img src="https://github.com/1dago/Maria-Corina-Bot-MD/blob/main/galeria/qrcode_30531084_.png" height="30px">
 
 - DETENER EL BOT DANDO CLICK EN EL SIMBOLO CTROL EN TERMUX MAS LA LETRA Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A DORRAT-TERMUX $  
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd Shadow-Bot-MD
+> cd Maria-Corina-Bot-MD
 > rm -rf DORRATSESSION 
 > npm start
 ```
@@ -75,8 +75,3 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 </a> <img src="https://github.com/Alba070503.png" width="100" height="100" alt="Alba070503"/> </a><img src="https://github.com/VIRUZOFC.png" width="100" height="100" alt="VIRUZOFC"/> 
 </a> <img src="https://github.com/matias-crypto.png" width="100" height="100" alt="matias-crypto"/> 
 </a>  
-
-## `𝐄𝐃𝐈𝐓𝐎𝐑 𝐘 𝐏𝐎𝐑𝐏𝐈𝐄𝐓𝐀𝐑𝐈𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓` 
-<a href="https://github.com/DIEGO-OFC"><img src="https://github.com/DIEGO-OFC.png" width="300" height="300" alt="DIEGO-OFC"/></a>
-
-> The Shadow - Brockers - Bot - MD_ By DIEGO OFC 
