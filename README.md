@@ -1,5 +1,5 @@
 
-# ***🔥 Shadow-Bot-MD 🔥***
+# ***🔥 Mari-Cori-Bot-MD 🔥***
 
 <p align="center">
 <img src="https://github.com/DIEGO-OFC/ShadowBotV4-MD/blob/master/src/sinfoto.jpg" alt="DORRAT-BOT-MD" width="900"/>
@@ -19,22 +19,8 @@ Dorrat se seguira usando para distintas cosas y funciones.
 <a href="http://wa.me/595986674310" target="blank"><img src="https://img.shields.io/badge/viruzz_COLAB.2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="http://wa.me/51993138466" target="blank"><img src="https://img.shields.io/badge/DANI_COLAB.3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="http://wa.me/50246028932" target="blank"><img src="https://img.shields.io/badge/SinNombre_COLAB.4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+ 
 
-### `—◉ 🔥GRUPOS OFICIALES`
-
-[![blog](https://img.shields.io/badge/Grupo-Oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://chat.whatsapp.com/JuuuUaIQnnE3t4SWQenShg)  <a href="https://chat.whatsapp.com/JuuuUaIQnnE3t4SWQenShg"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
-[![blog](https://img.shields.io/badge/Grupo-Oficial2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://chat.whatsapp.com/C3TfpGAEnpYHMqfe5YbZfc)  <a href="https://chat.whatsapp.com/C3TfpGAEnpYHMqfe5YbZfc"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
-
----------
-> GRUPOS OFICIALES DEL BOT PARA LA DIVERSIÓN :)
-
-## `[🗂️] Página del bot`
-
-<a href="https://dorrat-bot-oficial.ml/" target="_blank"> <img src="https://img.shields.io/badge/-pagina aqui-%23E4405F?style=for-the-badge&logo=página aqui&logoColor=black" target="_blank"></a> 
-
-> [⚠️] USAR LOS BOTS SIN SPAM
 
 
 ### `—◉ ⚜️ LETRA DEL BOT ⚜️`
@@ -64,8 +50,8 @@ Dorrat se seguira usando para distintas cosas y funciones.
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/DIEGO-OFC/Shadow-Bot-MD
-> cd Zirax-Bot-MD 
+> git clone https://github.com/1dago1/Maria-Corina-Bot-MD
+> cd Maria-Corina-Bot-MD 
 > yarn install 
 > npm install
 > npm install 
@@ -74,7 +60,7 @@ Dorrat se seguira usando para distintas cosas y funciones.
 ### `—◉ ☑️ ACTIVAR EN CASO DE APAGARSE EN TERMUX ☑️`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd Shadow-Bot-MD
+> cd Maria-Corina-Bot-MD
 > npm start
 ```
 
